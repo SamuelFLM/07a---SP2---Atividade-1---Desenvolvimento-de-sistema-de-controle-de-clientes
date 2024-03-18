@@ -4,6 +4,8 @@
 Para realizar essa atividade você primeiramente deverá analisar e compreender a Situação Problema, bem como interpretar o diagrama de classes a seguir, na qual poderá verificar os atributos e métodos das classes.
 </p>
 
+<img src="Img/diagrama.png" alt="diagrama">
+
 ### Após essa análise você irá desenvolver o sistema de controle de clientes, em que será importante aplicar os seguintes elementos da linguagem C#:
 
 + Entrada e saída de dados;
